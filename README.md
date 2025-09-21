@@ -42,7 +42,7 @@ It is recommended to use nvm for managing Node.js versions.
 Installation Steps
 
 1. Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Manasvi-Gangrade/Task_1-UI-UX-Enhancement.git
 
 2. Navigate to the project directory:
 cd Task_1-UI-UX-Enhancement
