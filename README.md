@@ -6,7 +6,7 @@ To better showcase the user interface and experience aspects, I’ve committed a
 
 Prototype Video : https://drive.google.com/file/d/1bLwoBcG6E__w-jPr-O8jvUesHKlk5EFI/view?usp=sharing <br>
 
-Detailed Documentation : <br>
+Detailed Documentation : https://docs.google.com/document/d/1zZ2aDjTbbORU6piTHycwPSHPrPUWJ3lE/edit?usp=sharing&ouid=106668008141851340749&rtpof=true&sd=true <br>
 (Includes the Approach as well as Reasoning + Additional Details) <br>
 
 <img width="1619" height="939" alt="image" src="https://github.com/user-attachments/assets/8e3bf46b-a298-4ee4-92b5-e51deb6d2616" /> <br>
