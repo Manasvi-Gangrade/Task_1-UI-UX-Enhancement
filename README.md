@@ -1,8 +1,9 @@
 # Task_1-UI-UX-Enhancement
 This repository contains an improved version of the FOSSEE Workshop Booking System  as part of the Python UI/UX Screening Task 1.
 
-Complete Prototype Video : https://drive.google.com/file/d/1bLwoBcG6E__w-jPr-O8jvUesHKlk5EFI/view?usp=sharing
-
+Prototype Video : https://drive.google.com/file/d/1bLwoBcG6E__w-jPr-O8jvUesHKlk5EFI/view?usp=sharing
+Detailed Documentation : 
+(Includes the Approach as well as Reasoning + Additional Details)
 <img width="1619" height="939" alt="image" src="https://github.com/user-attachments/assets/8e3bf46b-a298-4ee4-92b5-e51deb6d2616" /> <br>
 
 <img width="1741" height="979" alt="image" src="https://github.com/user-attachments/assets/094d95bd-e373-4a8c-b645-9a80d15a9613" /> <br>
