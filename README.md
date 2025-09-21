@@ -3,6 +3,7 @@ This repository contains an improved version of the FOSSEE Workshop Booking Syst
 
 While exploring the provided version of the repository—which was primarily Django-focused—I cloned and ran it locally to get a better understanding of the existing structure. During this process, I felt that the UI/UX elements were a bit overshadowed due to the tight coupling with backend logic.
 To better showcase the user interface and experience aspects, I’ve committed a standalone version focusing specifically on UI/UX. That being said, the structure has been kept flexible and can be smoothly integrated into the original Django workflow without disrupting the existing system.
+
 Prototype Video : https://drive.google.com/file/d/1bLwoBcG6E__w-jPr-O8jvUesHKlk5EFI/view?usp=sharing <br>
 
 Detailed Documentation : <br>
