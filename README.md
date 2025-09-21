@@ -5,9 +5,8 @@ While exploring the provided version of the repository—which was primarily Dja
 To better showcase the user interface and experience aspects, I’ve committed a standalone version focusing specifically on UI/UX. That being said, the structure has been kept flexible and can be smoothly integrated into the original Django workflow without disrupting the existing system.
 
 Prototype Video : https://drive.google.com/file/d/1bLwoBcG6E__w-jPr-O8jvUesHKlk5EFI/view?usp=sharing <br>
-
+Required Reasoning : https://docs.google.com/document/d/1l-q0qbgiyzBypxSDZ1vtCI2dHmkuf1Mr/edit?usp=sharing&ouid=106668008141851340749&rtpof=true&sd=true
 Detailed Documentation : https://docs.google.com/document/d/1zZ2aDjTbbORU6piTHycwPSHPrPUWJ3lE/edit?usp=sharing&ouid=106668008141851340749&rtpof=true&sd=true <br>
-(Includes the Approach as well as Reasoning + Additional Details) <br>
 
 <img width="1619" height="939" alt="image" src="https://github.com/user-attachments/assets/8e3bf46b-a298-4ee4-92b5-e51deb6d2616" /> <br>
 
